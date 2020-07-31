@@ -10,7 +10,7 @@
 </head>
 <body class="bg-gray-900 text-white">
     <header class="border-b border-gray-800">
-        <nav class="container mx-auto flex flex-col Lg:flex-row items-center justify-between px-4 py-6">
+        <nav class="container mx-auto flex flex-col lg:flex-row items-center justify-between px-4 py-6">
             <div class="flex flex-col lg:flex-row items-center">
                 <a href="/">
                     <img src="/assets/img/logo.jpg" alt="x_co" class="w-20 flex-none">
