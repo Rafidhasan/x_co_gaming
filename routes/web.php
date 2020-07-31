@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use Illuminate\Support\Facades\Http;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,10 +15,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', 'GamesController@index');
 
-route::get('/show', function() {
-    return view('show');
-});
+// Route::get('/', function () {
+//     return view('index');
+// });
+
+// route::get('/show', function() {
+//     return view('show');
+// });
