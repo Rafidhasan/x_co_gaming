@@ -7,6 +7,7 @@
     <title>x_co Gaming</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/main.css">
+    <livewire:styles>
 </head>
 <body class="bg-gray-900 text-white">
     <header class="border-b border-gray-800">
@@ -48,5 +49,7 @@
             Powered by <a href="#" class="underline hover:text-gray-400">x_co</a>
         </div>
     </footer>
+
+    <livewire:scripts>
 </body>
 </html>
