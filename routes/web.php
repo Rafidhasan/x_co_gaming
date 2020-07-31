@@ -16,11 +16,3 @@ use Illuminate\Support\Facades\Http;
 */
 
 Route::get('/', 'GamesController@index');
-
-// Route::get('/', function () {
-//     return view('index');
-// });
-
-// route::get('/show', function() {
-//     return view('show');
-// });
