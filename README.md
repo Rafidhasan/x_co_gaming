@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/Rafidhasan/x_co_gaming/blob/master/public/assets/img/Capture.PNG" width="1000"></p>
-# X_CO: Powered by IGDB API
+## X_CO: Powered by IGDB API
 
 ## Installation
 
