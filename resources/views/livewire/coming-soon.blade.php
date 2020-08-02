@@ -7,7 +7,7 @@
                     <img src="{{$game['cover']['url']}}" alt="cover" class="w-16 hover:opacity-75 transition ease-in-out duration-150">
                 </a>
                 <div class="ml-4">
-                    <a href="#" class="hover:text-gray-300">{{$game['name']}}</a>
+                    <a href="{{route('games.show', $game['slug'])}}" class="hover:text-gray-300">{{$game['name']}}</a>
                     <div class="text-gray-400 text-sm mt-1">
                         {{ Carbon\Carbon::parse($game['first_release_date'])->format('M Y D')}}
                     </div>
