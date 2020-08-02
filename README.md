@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Rafidhasan/x_co_gaming/blob/master/public/assets/img/Capture.PNG" width="400"></p>
+<p align="center"><img src="https://github.com/Rafidhasan/x_co_gaming/blob/master/public/assets/img/Capture.PNG" width="1000"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
